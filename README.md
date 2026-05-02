@@ -1,5 +1,5 @@
 <p align="center">
-  <h1> To-Do List App </h1>
+  <h1> To-Do List Webpage </h1>
 </p>
  
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <h2>⚡ Neon To-Do </h2>
+  <h2>⚡ Modern To-Do-List </h2>
 </p>
 
 A modern, aesthetic **dark-themed task manager** built using HTML, CSS, and JavaScript.
@@ -20,7 +20,7 @@ This app helps users manage daily tasks with a clean UI and smooth user experien
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2"/>
 
 
-## 🚀 Features
+# 🚀 Features
 
 * ➕ Add new tasks easily
 * ❌ Delete tasks instantly
@@ -31,17 +31,17 @@ This app helps users manage daily tasks with a clean UI and smooth user experien
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2"/>
 
 
-## 🎨 UI Highlights
+# 🎨 UI Highlights
 
 * Light background for minimal eye strain
-* Neon glow effects 
+* Pastel glow effects 
 * Clean and modern layout
 * Responsive design
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2"/>
 
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 * 🌐 HTML
 * 🎨 CSS
@@ -52,14 +52,14 @@ This app helps users manage daily tasks with a clean UI and smooth user experien
 
 # 📂 Project Structure
 
-## Preview
-Click here --> ([files (1).zip](https://github.com/user-attachments/files/27307673/files.1.zip)
+# Preview
+Click here --> ([files (2).zip](https://github.com/user-attachments/files/27308107/files.2.zip)
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2"/>
 
 
-## 🔮 Future Improvements
+# 🔮 Future Improvements
 * 🔍 Working on UI 
 * 🔍 Filter tasks (All / Completed / Pending)
 * ✏️ Edit tasks
@@ -68,8 +68,12 @@ Click here --> ([files (1).zip](https://github.com/user-attachments/files/273076
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2"/>
 
+# 🔮 In Progress
+* ✏️ Avatar Profile Page
 
-## 💻 Author
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2"/>
+
+# 💻 Author
 
 👩‍💻 Vini the Vaishnavi
 Frontend Developer | UI/UX Enthusiast
